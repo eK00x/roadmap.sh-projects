@@ -1,12 +1,7 @@
-# My Website
+# Front-end Projects from Roadmap.sh
 
-A simple HTML-only website with multiple pages, built as part of my frontend development learning journey.
+This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
 
-## Pages
-- Homepage
-- Projects
-- Articles
-- Contact
+## Projects List
 
-## Built With
-- HTML5
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),
